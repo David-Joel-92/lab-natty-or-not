@@ -24,7 +24,7 @@ Após a criação do artigo, foi criado um avatar em vídeo com o Virbo e gerada
 
 ## 🚀 Resultados
 
-Avatar em vídeo fazendo a introdução.
+[Avatar em vídeo fazendo a introdução.](https://youtu.be/fA4WHiEYe9g)
 
 Iniciar uma carreira como cientista de dados envolve uma combinação de educação, desenvolvimento de habilidades práticas e ganho de experiência. Aqui estão algumas etapas importantes para começar:
 
